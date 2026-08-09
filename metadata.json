@@ -1,0 +1,6 @@
+{
+  "name": "Beyond Trade",
+  "description": "Premier Fixed Time Trading Platform with real-time interactive charts, Call/Put binary trading, wallet management, trading analytics, referral system, and live support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
